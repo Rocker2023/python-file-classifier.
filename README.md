@@ -12,3 +12,4 @@ This project automates the organization of large media directories. It was speci
 * Python Scripting & Automation
 * File system operations
 * Data organization and logical structuring
+
